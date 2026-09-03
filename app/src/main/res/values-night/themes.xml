@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.NoteFolio" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#14161A</item>
+        <item name="android:windowBackground">#14161A</item>
+    </style>
+</resources>
