@@ -1,0 +1,17 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Simple folded-page / spine mark in the app's highlight color -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,26 L74,26 A6,6 0 0 1 80,32 L80,80 A6,6 0 0 1 74,86 L34,86 A6,6 0 0 1 28,80 L28,32 A6,6 0 0 1 34,26 Z"
+        android:fillAlpha="0.95"/>
+    <path
+        android:fillColor="#D98E3B"
+        android:pathData="M28,32 A6,6 0 0 1 34,26 L40,26 L40,86 L34,86 A6,6 0 0 1 28,80 Z"/>
+    <path
+        android:fillColor="#2F4A73"
+        android:pathData="M46,42 L70,42 L70,46 L46,46 Z M46,54 L70,54 L70,58 L46,58 Z M46,66 L62,66 L62,70 L46,70 Z"/>
+</vector>
